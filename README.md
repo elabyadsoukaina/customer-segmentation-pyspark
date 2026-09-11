@@ -33,7 +33,7 @@ the main goals of this project are :
 * Compute RFM metrics (Recency, Frequency, Monetary) for each customer
 * Use PySpark to efficiently process and analyze a large-scale dataset (541,909 records), and Perform distributed data transformations and aggregations for scalability and performance.
 * Apply K-Means clustering on RFM features to segment customers into distinct groups.
-* Track experiments and results using MLflow for reproducibility
+
 
 **Tools and Technologies Used**
 
@@ -41,7 +41,7 @@ the main goals of this project are :
 * Pyspark
 * spark Mlib (K-means)
 * seaborn & Matplotlib
-* MLflow
+  
 
 ---
 
